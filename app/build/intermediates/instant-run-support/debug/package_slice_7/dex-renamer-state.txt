@@ -1,0 +1,4 @@
+#Tue Mar 27 08:37:51 CST 2018
+base.0=/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

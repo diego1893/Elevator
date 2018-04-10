@@ -1,0 +1,7 @@
+#Tue Mar 27 00:04:08 CST 2018
+base.0=/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e45357053ae985d1b78584b7701e2529e9907809
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_05f6ce01332a8b037464620756fabfed1118fedb/classes.dex
+base.1=/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_05f6ce01332a8b037464620756fabfed1118fedb
+file.0=/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e45357053ae985d1b78584b7701e2529e9907809/classes.dex
