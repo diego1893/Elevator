@@ -8,12 +8,32 @@
         "source": "/Users/Diego/.android/build-cache/fd84ce35e1f805b23c4bea7a15066e4883f2b74a/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
         "source": "/Users/Diego/.android/build-cache/fd84ce35e1f805b23c4bea7a15066e4883f2b74a/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
         "merged": "/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
         "source": "/Users/Diego/.android/build-cache/fd84ce35e1f805b23c4bea7a15066e4883f2b74a/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
         "merged": "/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
@@ -22,5 +42,9 @@
     {
         "merged": "/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
         "source": "/Users/Diego/.android/build-cache/fd84ce35e1f805b23c4bea7a15066e4883f2b74a/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v11/notification_template_big_media_narrow.xml"
     }
 ]

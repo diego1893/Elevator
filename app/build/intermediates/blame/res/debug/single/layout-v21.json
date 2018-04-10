@@ -4,12 +4,28 @@
         "source": "/Users/Diego/.android/build-cache/fd84ce35e1f805b23c4bea7a15066e4883f2b74a/output/res/layout-v21/notification_action.xml"
     },
     {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/Users/Diego/.android/build-cache/fd84ce35e1f805b23c4bea7a15066e4883f2b74a/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/Diego/.android/build-cache/fd84ce35e1f805b23c4bea7a15066e4883f2b74a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/diego/.android/build-cache/02b12172822f64e7464c1b4c64d7603ca6272c48/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",

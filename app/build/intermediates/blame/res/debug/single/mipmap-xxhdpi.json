@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/diego/AndroidStudioProjects/Elevator/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
         "source": "/Users/Diego/AndroidStudioProjects/Elevator/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/Diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/Diego/AndroidStudioProjects/Elevator/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/diego/AndroidStudioProjects/Elevator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/diego/AndroidStudioProjects/Elevator/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]
